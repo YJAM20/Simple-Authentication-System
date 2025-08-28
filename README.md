@@ -51,17 +51,6 @@ This project was created as a course task to demonstrate **client-side authentic
 
 ---
 
-## 📸 Screenshots  
-_Add screenshots of **Signup**, **Login**, and **Home (after login)** here._  
-
-Example:  
-
-![Signup Page](./screenshots/signup.png)  
-![Login Page](./screenshots/login.png)  
-![Home Page](./screenshots/home.png)  
-
----
-
 ## 🔮 Future Improvements  
 - Add **password hashing** for more secure storage.  
 - Connect with a **real backend + database**.  
